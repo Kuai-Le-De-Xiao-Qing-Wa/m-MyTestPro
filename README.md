@@ -6,6 +6,6 @@ python练习
 
 ### 目录说明
 
-- /demo：自己的兴趣小样，主要目的是了解python
+[comment]: <> (- /demo：兴趣小样，主要目的是了解python)
 - /Learning_path： 来自于各方大佬整理的python教程
 - /test： Django练习小样，目的在于学习使用Django框架
